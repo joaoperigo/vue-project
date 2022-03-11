@@ -13,7 +13,6 @@
 <style scoped>
 
   #main-banner {
-    /* background-image: url('../../public/img/burger.jpg'); */
     background-image: url('/public/img/burger.jpg');
     background-position: center;
     background-size: cover;

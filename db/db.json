@@ -109,26 +109,6 @@
       "id": 3
     },
     {
-      "nome": "showmsg",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "nome": "settimeuot msg",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
       "nome": "show msg 2",
       "carne": "Veggie burger",
       "pao": "Parmesão e Orégano",

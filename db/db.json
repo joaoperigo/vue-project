@@ -95,18 +95,8 @@
       "opcionais": [
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 2
-    },
-    {
-      "nome": "msg2",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 3
     },
     {
       "nome": "show msg 2",
@@ -132,6 +122,16 @@
       ],
       "status": "Solicitado",
       "id": 7
+    },
+    {
+      "nome": "update orders",
+      "carne": "Veggie burger",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 8
     }
   ]
 }

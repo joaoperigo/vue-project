@@ -79,59 +79,14 @@
   ],
   "burgers": [
     {
-      "nome": "res",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "msg",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Salame"
-      ],
-      "status": "Finalizado",
-      "id": 2
-    },
-    {
       "nome": "show msg 2",
       "carne": "Veggie burger",
       "pao": "Parmesão e Orégano",
       "opcionais": [
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 6
-    },
-    {
-      "nome": "orders request",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cebola roxa",
-        "Salame",
-        "Bacon",
-        "Pepino",
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 7
-    },
-    {
-      "nome": "update orders",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 8
     }
   ]
 }
